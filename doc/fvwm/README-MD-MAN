@@ -1,0 +1,1 @@
+pandoc -s -f markdown -t man ./fvwm3-man.md -o ./fvwm3.1
